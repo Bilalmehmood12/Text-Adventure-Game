@@ -1,0 +1,68 @@
+Room Escape Game
+Welcome! Glad to see you aroud.I have a mission for you.Do you think you have what it takes to succed this escape adventure.You have to find items in the rooms to escape from them.
+Location: 1
+Name: First Room
+Description: You are trapped inside a dark room with limited sight. You see a locked door in front of you.
+Password: Television.1956
+Contents: 1: Flash Light
+Description: Take batteries for TV remote.
+open: false
+content: Batteries
+description: Use batteries for TV remote 
+Contents: 2: Television
+Description: The TV needs a remote to display password
+open: false
+key_item: TV Remote
+Contents: 3: TV Remote
+Description: Turn on TV to see password
+open: false
+key_item: Batteries
+Location: 2
+Name: Second Room
+Description: You entered through the door. Now you are in another room.
+Password: Breif Case.1886
+Contents: 1: Cupboard
+Description: The cupboad is also locked
+open: false
+content: Red key
+description: Key to the main door but also need 4 digit pin 
+Contents: 2: Brief Case
+Description: Brief case is stuck. Use knife to open it 
+open: false
+key_item: Knife
+Contents: 3: knife
+Description: Use knife to open brief case
+open: true
+Location: 3
+Name: Third Room
+Description: You are trapped inside a dark room with limited sight. You see a locked door in front of you.
+Password: Television.1456
+Contents: 1: Flash Light
+Description: Take batteries for TV remote.
+open: false
+content: Batteries
+description: Use batteries for TV remote 
+Contents: 2: Television
+Description: The TV needs a remote to display password
+open: false
+key_item: TV Remote
+Contents: 3: TV Remote
+Description: Turn on TV to see password
+open: false
+key_item: Batteries
+Location: 4
+Name: fourth Room
+Description: You entered through the door. Now you are in another room.
+Password: Breif Case.1986
+Contents: 1: Cupboard
+Description: The cupboad is also locked
+open: false
+content: Red key
+description: Key to the main door but also need 4 digit pin 
+Contents: 2: Brief Case
+Description: Brief case is stuck. Use knife to open it 
+open: false
+key_item: Knife
+Contents: 3: knife
+Description: Use knife to open brief case
+open: true
