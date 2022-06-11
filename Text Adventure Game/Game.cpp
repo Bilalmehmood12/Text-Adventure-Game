@@ -13,7 +13,7 @@ void Game::runGame(int i)
 	string input;
 	while (1)
 	{
-		if (flag)	//if game win
+		if (flag)	//if game win 
 		{
 			break;
 		}
